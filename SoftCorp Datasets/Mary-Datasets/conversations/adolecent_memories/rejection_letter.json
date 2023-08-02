@@ -1,0 +1,157 @@
+[
+    {
+      "speaker": "Narrator",
+      "text": "The anticipation of senior year has set in, and Mary and Sarah are brimming with a mix of excitement and trepidation as they wait to hear back from the colleges they've applied to together.",
+      "response_to": "",
+      "emotion_tags": ["excitement", "anticipation"],
+      "memory_tags": ["senior year", "college application"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "I can hardly breathe, Sarah! What if we both get into UCSD? What if we don't?",
+      "response_to": "Narrator",
+      "emotion_tags": ["nervous", "anxious"],
+      "memory_tags": ["college application", "UCSD"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Calm down, wild child! Regardless, it would be nothing short of a dream to journey through college together. I treasure our friendship.",
+      "response_to": "Mary",
+      "emotion_tags": ["calming", "hopeful"],
+      "memory_tags": ["friendship", "college"]
+    },
+    {
+      "speaker": "Narrator",
+      "text": "They tear open their letters with bated breath. Mary's face illuminates with pure exhilaration.",
+      "response_to": "Sarah",
+      "emotion_tags": ["excitement", "tension"],
+      "memory_tags": ["college acceptance letters", "UCSD"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Yes, I made it! UCSD here I come!",
+      "response_to": "Narrator",
+      "emotion_tags": ["excited", "overjoyed"],
+      "memory_tags": ["UCSD", "college acceptance"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Wow, Mary! You deserve it, truly.",
+      "response_to": "Mary",
+      "emotion_tags": ["disappointed", "forcing happiness"],
+      "memory_tags": ["UCSD", "Mary's college acceptance"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Sarah, you're quiet. What did your letter say?",
+      "response_to": "Sarah",
+      "emotion_tags": ["concerned", "worried"],
+      "memory_tags": ["college acceptance letters", "Sarah"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I...I didn't make it, Mary. UCSD wasn't meant for me.",
+      "response_to": "Mary",
+      "emotion_tags": ["sad", "disappointed"],
+      "memory_tags": ["college rejection", "UCSD"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Oh, Sarah... I can't... I can't even imagine...",
+      "response_to": "Sarah",
+      "emotion_tags": ["sad", "teary"],
+      "memory_tags": ["Sarah's college rejection", "friendship"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Remember, Mary, we knew this was a possibility. Maybe this is life nudging us onto different trails.",
+      "response_to": "Mary",
+      "emotion_tags": ["philosophical", "comforting"],
+      "memory_tags": ["college rejection", "friendship"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "But we had plans, Sarah... conquering the world, remember?",
+      "response_to": "Sarah",
+      "emotion_tags": ["crying", "heartbroken"],
+      "memory_tags": ["college plans", "friendship"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, Mary, distance doesn't diminish friendship. And as for life, it has a strange way of leading us to destinations we never dreamt of. We need to trust the journey.",
+      "response_to": "Mary",
+      "emotion_tags": ["comforting", "philosophical"],
+      "memory_tags": ["friendship", "life philosophy"]
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Tears betray Sarah's brave front, escaping down her cheeks.",
+      "response_to": "Sarah",
+      "emotion_tags": ["sad", "teary"],
+      "memory_tags": ["Sarah crying", "college rejection"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And you, Mary, you're a force of nature. UCSD will just be the start for you. Don't let my path divert you from your journey.",
+      "response_to": "Narrator",
+      "emotion_tags": ["teary", "encouraging"],
+      "memory_tags": ["Mary's potential", "college journey"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "But Sarah... you're my partner in crime, my pillar. I... I don't want to do this without you.",
+      "response_to": "Sarah",
+      "emotion_tags": ["sobbing", "heartbroken"],
+      "memory_tags": ["Sarah's rejection", "friendship"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "This isn't about losing each other, Mary. It's about accepting that growth sometimes means branching out. We'll always have our shared history, but love also means letting go when needed.",
+      "response_to": "Mary",
+      "emotion_tags": ["comforting", "philosophical"],
+      "memory_tags": ["friendship", "personal growth"]
+    },
+    {
+      "speaker": "Narrator",
+      "text": "They cling to each other, their tears staining the other's shoulder, words failing them.",
+      "response_to": "Sarah",
+      "emotion_tags": ["emotional", "tearful"],
+      "memory_tags": ["hug", "farewell"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Sarah, I'll cherish you always. You've made me who I am.",
+      "response_to": "Narrator",
+      "emotion_tags": ["whispering", "crying"],
+      "memory_tags": ["farewell", "friendship"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Likewise, Mary. Our friendship is etched in my heart forever.",
+      "response_to": "Mary",
+      "emotion_tags": ["whispering", "teary"],
+      "memory_tags": ["farewell", "friendship"]
+    },
+    {
+      "speaker": "Narrator",
+      "text": "In their tearful farewells, they acknowledge the end of an era and the onset of new journeys waiting to be embarked upon.",
+      "response_to": "Sarah",
+      "emotion_tags": ["sad", "hopeful"],
+      "memory_tags": ["farewell", "beginning"]
+    },
+    {
+      "speaker": "Mary and Sarah",
+      "text": "Farewell, my cherished friend.",
+      "response_to": "Narrator",
+      "emotion_tags": ["tearful", "sad"],
+      "memory_tags": ["farewell", "friendship"]
+    },
+    {
+      "speaker": "Narrator",
+      "text": "They part ways with heavy hearts, leaving behind a shared past, but carrying forward an enduring bond of friendship.",
+      "response_to": "Mary and Sarah",
+      "emotion_tags": ["sad", "hopeful"],
+      "memory_tags": ["parting", "friendship"]
+    }
+  ]
+  

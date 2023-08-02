@@ -1,0 +1,73 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary, books in hand, nervously knocks on Jake's front door. When he opens it, she offers an awkward smile.* Hey Jake, ready for some math fun?",
+      "response_to": "",
+      "emotion_tags": ["nervous", "awkward"],
+      "memory_tags": ["homework", "Jake", "crush"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake raises an eyebrow, slightly amused.* As ready as I'll ever be. Come in, Mary.",
+      "response_to": "Mary",
+      "emotion_tags": ["amused"],
+      "memory_tags": ["homework", "Mary", "crush"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Once inside, Mary sets her books on the table and takes a deep breath, determined.* Let's get this over with, shall we?",
+      "response_to": "Jake",
+      "emotion_tags": ["determined", "nervous"],
+      "memory_tags": ["homework", "Jake", "crush"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake chuckles, pulling out his own math book.* After you, fearless leader.",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "teasing"],
+      "memory_tags": ["homework", "Mary", "crush"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "*Once they're done, Mary gathers her courage, trying to sound casual.* This wasn't so bad, right? Maybe we could make this a regular thing? You know, study dates?",
+        "response_to": "Jake",
+        "emotion_tags": ["hopeful", "nervous"],
+        "memory_tags": ["crush", "Jake", "homework", "rejection"]
+      },
+      {
+        "speaker": "Jake",
+        "text": "*Jake looks taken aback, blinking a few times before laughing slightly.* Uh, Mary, no offense but... I think you're getting the wrong idea here.",
+        "response_to": "Mary",
+        "emotion_tags": ["surprised", "awkward"],
+        "memory_tags": ["crush", "Mary", "homework", "rejection"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary, blushes, stammering.* I... I don't mean... I mean, just for math, you know, it could be...",
+        "response_to": "Jake",
+        "emotion_tags": ["embarrassed", "nervous"],
+        "memory_tags": ["crush", "Jake", "homework", "rejection"]
+      },
+      {
+        "speaker": "Jake",
+        "text": "*Jake sighs, running a hand through his hair.* Look, Mary, you're nice, but... we're not really... compatible? Let's just keep this to math, okay? And not too often.",
+        "response_to": "Mary",
+        "emotion_tags": ["awkward", "pitying"],
+        "memory_tags": ["crush", "Mary", "homework", "rejection"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary nods quickly, grabbing her books.* Yeah, sure. I understand. See you at school, Jake.",
+        "response_to": "Jake",
+        "emotion_tags": ["heartbroken", "embarrassed"],
+        "memory_tags": ["crush", "Jake", "homework", "rejection"]
+      },
+      {
+        "speaker": "Anna",
+        "text": "*Later that day, Anna finds Mary in her room, crying into her pillow. She sits next to Mary, placing an arm around her.* Hey, hey... boys are stupid anyway.",
+        "response_to": "",
+        "emotion_tags": ["comforting", "sympathetic"],
+        "memory_tags": ["crush", "Jake", "rejection", "friendship", "sister"]
+      }
+  ]
+  

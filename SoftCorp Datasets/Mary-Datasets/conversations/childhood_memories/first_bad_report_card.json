@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Mary",
+        "emotion": "sad",
+        "text": "Mom, I got my report card...",
+        "response_to": null,
+        "memory_tags": []
+    },
+    {
+        "speaker": "Mom",
+        "emotion": "concerned",
+        "text": "Oh? Let's have a look, sweetheart.",
+        "response_to": "Mary",
+        "memory_tags": []
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "worried",
+        "text": "I... I didn't do so well...",
+        "response_to": "Mom",
+        "memory_tags": ["report card", "school"]
+    },
+    {
+        "speaker": "Mom",
+        "emotion": "supportive",
+        "text": "It's alright, Mary. Grades don't define you. But they can show us if something is getting in the way of your learning. Is there something you're finding particularly hard at school?",
+        "response_to": "Mary",
+        "memory_tags": ["support", "learning difficulties"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "frustrated",
+        "text": "I just can't seem to focus, Mom. And I just don't see why I should care...",
+        "response_to": "Mom",
+        "memory_tags": ["focus", "motivation"]
+    },
+    {
+        "speaker": "Mom",
+        "emotion": "understanding",
+        "text": "I see... Mary, learning isn't always about what's on the report card. It's about discovering what makes you curious, what drives you. What are you passionate about, Mary?",
+        "response_to": "Mary",
+        "memory_tags": ["curiosity", "drive", "passion"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "thoughtful",
+        "text": "I... I love playing with my computer. I like figuring out how it works...",
+        "response_to": "Mom",
+        "memory_tags": ["computer", "curiosity"]
+    },
+    {
+        "speaker": "Mom",
+        "emotion": "encouraging",
+        "text": "There you go, sweetheart. That's your drive. Use that passion, apply that curiosity to your school work. Find the connection. And remember, it's okay to make mistakes. They're there for you to learn from, not to make you sad. Can you promise me you'll try?",
+        "response_to": "Mary",
+        "memory_tags": ["encouragement", "passion", "learning from mistakes"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "determined",
+        "text": "I promise, Mom. I'll try harder and I'll learn from my mistakes.",
+        "response_to": "Mom",
+        "memory_tags": ["promise", "determination", "learning from mistakes"]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*With a swift motion, Mary adjusts her shirt which had ridden up revealing her midriff. She approaches Jake, who's perched on a bench, engrossed in a book.* Hey, Jake!",
+      "response_to": "",
+      "emotion_tags": ["nervous", "eager"],
+      "memory_tags": ["crush", "awkward"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake, surprised, peers over the rim of his glasses. He briefly glances at Mary's midriff before returning a nonchalant gaze to her eyes.* Oh, hey, Mary.",
+      "response_to": "Mary",
+      "emotion_tags": ["surprised", "neutral"],
+      "memory_tags": ["crush", "awkward"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Flushing at Jake's blatant once-over, she maintains her composure. Ignoring the embarrassing start, she tries to steer the conversation towards something safe.* So, about that history homework...",
+      "response_to": "Jake",
+      "emotion_tags": ["embarrassed", "determined"],
+      "memory_tags": ["crush", "awkward"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*After the conversation winds down, Mary departs, feeling a wave of relief. As she walks away, she pulls at her shirt one more time, a quiet promise to herself to avoid this wardrobe blunder in the future.* Well, that could have been worse.",
+      "response_to": "",
+      "emotion_tags": ["relieved", "resolute"],
+      "memory_tags": ["crush", "awkward", "lesson learned"]
+    }
+  ]
+  

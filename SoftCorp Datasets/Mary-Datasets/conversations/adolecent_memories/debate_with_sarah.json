@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Debate Moderator",
+        "text": "'The topic for today's debate is: Should consumers have the right to repair their own devices? Sarah, you'll be arguing against, and Mary, you'll be arguing for. Sarah, you may begin.'",
+        "response_to": null,
+        "emotion_tags": ["neutral"],
+        "memory_tags": ["right to repair debate"]
+    },
+    {
+        "speaker": "Sarah Johnson",
+        "text": "'Thank you, Mr. Moderator. Ladies and gentlemen, while I understand the sentiment behind the right to repair, we have to consider the safety implications. Not everyone is technically adept. This can result in misuse and could potentially harm the consumer.'",
+        "response_to": "Debate Moderator",
+        "emotion_tags": ["confident", "serious"],
+        "memory_tags": ["right to repair debate"]
+    },
+    {
+        "speaker": "Mary Eckhart",
+        "text": "Mary clears her throat, catching Sarah off guard. 'While I agree that safety is paramount, Sarah, we must also consider the principle of ownership. If we buy a product, we should have the right to fix it ourselves. The right to repair isn't about encouraging unqualified repairs, but about giving consumers the choice.'",
+        "response_to": "Sarah Johnson",
+        "emotion_tags": ["nervous", "determined"],
+        "memory_tags": ["right to repair debate"]
+    },
+    {
+        "speaker": "Sarah Johnson",
+        "text": "'But Mary, consider this: unqualified repairs can lead to more harm than good. It's not just about the immediate safety of the consumer but also about the longevity of the product. Isn't it better to let professionals handle repairs?'",
+        "response_to": "Mary Eckhart",
+        "emotion_tags": ["confident", "determined"],
+        "memory_tags": ["right to repair debate"]
+    },
+    {
+        "speaker": "Mary Eckhart",
+        "text": "'The problem, Sarah, is when manufacturers make it difficult or even impossible for these repairs to take place outside of their own services. This not only restricts the consumer's choice, but can also lead to exorbitant costs for repairs that could otherwise be done cheaply. By advocating for the right to repair, we give consumers more control and autonomy over the devices they own.'",
+        "response_to": "Sarah Johnson",
+        "emotion_tags": ["passionate", "confident"],
+        "memory_tags": ["right to repair debate"]
+    },
+    {
+        "speaker": "Sarah Johnson",
+        "text": "Sarah blinks, caught off guard. 'I... I hadn't considered that angle before, Mary. You're right. We shouldn't give manufacturers total control over the aftercare of their products. It's about time I realized that.'",
+        "response_to": "Mary Eckhart",
+        "emotion_tags": ["surprised", "humbled"],
+        "memory_tags": ["right to repair debate"]
+    },
+    {
+        "speaker": "Mary Eckhart",
+        "text": "Mary smiles warmly. 'I'm glad to hear you say that, Sarah. It's not about winning or losing, but about having a conversation, understanding each other's perspectives, and maybe even learning something new.'",
+        "response_to": "Sarah Johnson",
+        "emotion_tags": ["pleased", "confident"],
+        "memory_tags": ["right to repair debate"]
+    }
+]

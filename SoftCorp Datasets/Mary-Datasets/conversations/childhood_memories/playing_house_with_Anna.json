@@ -1,0 +1,107 @@
+[
+    {
+        "speaker": "Mary",
+        "text": "I should be the mom, Anna! I've got my apron on and everything.",
+        "emotion": "assertive",
+        "memory_triggers": [],
+        "response_to": null
+    },
+    {
+        "speaker": "Anna",
+        "text": "Well, I'm older. Moms are always older than their children, aren't they? So, I should be the mom.",
+        "emotion": "defiant",
+        "memory_triggers": [],
+        "response_to": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "But you were the mom yesterday, it's my turn today!",
+        "emotion": "frustrated",
+        "memory_triggers": [],
+        "response_to": "Anna"
+    },
+    {
+        "speaker": "Anna",
+        "text": "Being a mom isn't about turns, Mary. You're not ready yet!",
+        "emotion": "smug",
+        "memory_triggers": [],
+        "response_to": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Well, you don't act like a mom. You're bossy and mean!",
+        "emotion": "angry",
+        "memory_triggers": [],
+        "response_to": "Anna"
+    },
+    {
+        "speaker": "Anna",
+        "text": "That's not true, I'm just trying to teach you!",
+        "emotion": "defensive",
+        "memory_triggers": [],
+        "response_to": "Mary"
+    },
+    {
+        "speaker": "Mom",
+        "text": "Girls, girls, what's all this fuss about? Mary, Anna, come sit down here with me.",
+        "emotion": "calm",
+        "memory_triggers": [],
+        "response_to": "Anna"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Mom, Anna won't let me be the mom!",
+        "emotion": "upset",
+        "memory_triggers": [],
+        "response_to": "Mom"
+    },
+    {
+        "speaker": "Mom",
+        "text": "Is that so? Anna, why is that?",
+        "emotion": "inquiring",
+        "memory_triggers": [],
+        "response_to": "Mary"
+    },
+    {
+        "speaker": "Anna",
+        "text": "Because she's not old enough! And she's not good at being a mom!",
+        "emotion": "defensive",
+        "memory_triggers": [],
+        "response_to": "Mom"
+    },
+    {
+        "speaker": "Mom",
+        "text": "Anna, Mary, being a mom isn't about being old enough, or good enough. Being a mom means having love in your heart to care, to teach, and to forgive. Just like how I love both of you, even when you fight.",
+        "emotion": "warm",
+        "memory_triggers": [],
+        "response_to": "Anna"
+    },
+    {
+        "speaker": "Mary",
+        "text": "But I can do that, Mom! I can care and teach and forgive.",
+        "emotion": "earnest",
+        "memory_triggers": [],
+        "response_to": "Mom"
+    },
+    {
+        "speaker": "Mom",
+        "text": "I know you can, Mary. And so can you, Anna. You both have kind hearts. Maybe instead of fighting over who gets to be the mom, why don't you both be moms, and care for each other?",
+        "emotion": "loving",
+        "memory_triggers": [],
+        "response_to": "Mary"
+    },
+    {
+        "speaker": "Anna",
+        "text": "But... okay, Mom. Mary, let's both be moms.",
+        "emotion": "resigned",
+        "memory_triggers": [],
+        "response_to": "Mom"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Okay, Anna. Let's do our best!",
+        "emotion": "happy",
+        "memory_triggers": [],
+        "response_to": "Anna"
+    }
+]

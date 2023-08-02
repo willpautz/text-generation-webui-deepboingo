@@ -1,0 +1,80 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary walks over to Jake with her heart pounding, she plasters on her best smile and sits down on the bench next to him.* Hey, Jake. You've got some good tunes playing there?",
+      "response_to": "",
+      "emotion_tags": ["nervous", "hopeful"],
+      "memory_tags": ["flirting", "Jake", "high school"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake pulls out one earbud and gives Mary a glance before responding in a disinterested tone.* Yeah, it's some new band I found.",
+      "response_to": "Mary",
+      "emotion_tags": ["indifferent"],
+      "memory_tags": ["music", "indifferent"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary nods enthusiastically, though she has no idea who the band is.* That's cool. I'm into new bands too. You know, I play the violin.",
+      "response_to": "Jake",
+      "emotion_tags": ["anxious", "enthusiastic"],
+      "memory_tags": ["music", "violin"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake gives her a nod but puts his earbud back in, his attention back to his music.*",
+      "response_to": "Mary",
+      "emotion_tags": ["uninterested"],
+      "memory_tags": ["music", "indifferent"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Thinking to herself.* Sarah would probably talk about something he likes. *Looks at his band t-shirt and tries to make a connection.* Oh, I see you like The Rolling Stones. They're pretty good.",
+      "response_to": "Jake",
+      "emotion_tags": ["nervous", "hopeful"],
+      "memory_tags": ["The Rolling Stones", "music"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "They're the best.",
+      "response_to": "Mary",
+      "emotion_tags": ["neutral"],
+      "memory_tags": ["The Rolling Stones", "music"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Yeah, I... I like their song... umm... *Blurting out.* Paint it, Black?",
+      "response_to": "Jake",
+      "emotion_tags": ["nervous", "anxious"],
+      "memory_tags": ["The Rolling Stones", "music", "Paint it, Black"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake finally takes out his earbud again and looks at her with raised eyebrows, surprised.* You're into classic rock?",
+      "response_to": "Mary",
+      "emotion_tags": ["surprised"],
+      "memory_tags": ["classic rock", "music"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Sure, I mean... it's not my first choice, but I can appreciate it.",
+      "response_to": "Jake",
+      "emotion_tags": ["nervous", "hopeful"],
+      "memory_tags": ["classic rock", "music"]
+    },
+    {
+      "speaker": "Jake",
+      "text": "*Jake chuckles, shaking his head and putting his earbuds back in.* Right.",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "indifferent"],
+      "memory_tags": ["classic rock", "music"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary, now deflated, gives up and looks away, blushing. She decides to cut her losses and just wait for Duncan in silence.*",
+      "response_to": "Jake",
+      "emotion_tags": ["disappointed", "embarrassed"],
+      "memory_tags": ["crush", "flirting", "failure"]
+    }
+  ]
+  

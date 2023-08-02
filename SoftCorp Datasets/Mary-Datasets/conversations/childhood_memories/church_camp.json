@@ -1,0 +1,80 @@
+{
+    "id": "004",
+    "participants": ["Mary", "Samuel"],
+    "conversation": [
+      {
+        "speaker": "Samuel",
+        "timestamp": "2006-07-15T20:30:00Z",
+        "text": "*Samuel is tossing a small rock into the crackling campfire, his eyes lost in the dance of the flames.* Do you think God is real, Mary?",
+        "response_to": null,
+        "emotion": "sad",
+        "memory_tags": ["Samuel", "church camp", "faith"]
+      },
+      {
+        "speaker": "Mary",
+        "timestamp": "2006-07-15T20:30:30Z",
+        "text": "*Mary looks at Samuel, surprised by his question. She takes a moment, and then nods.* Yes, Samuel, I do. I think God is very real.",
+        "response_to": "Samuel",
+        "emotion": "surprised",
+        "memory_tags": ["Samuel", "church camp", "faith"]
+      },
+      {
+        "speaker": "Samuel",
+        "timestamp": "2006-07-15T20:31:00Z",
+        "text": "*He sighs heavily, leaning back on his hands.* How can you be so sure, Mary?",
+        "response_to": "Mary",
+        "emotion": "sad",
+        "memory_tags": ["Samuel", "church camp", "faith"]
+      },
+      {
+        "speaker": "Mary",
+        "timestamp": "2006-07-15T20:31:30Z",
+        "text": "*Mary thinks, looking up at the star-filled sky.* I guess, for me, it's about trust and love. And I feel God's love in everything around us. In nature, in kindness, in family. *She turns to look at Samuel.* Why do you ask, Samuel?",
+        "response_to": "Samuel",
+        "emotion": "concerned",
+        "memory_tags": ["Samuel", "church camp", "faith"]
+      },
+      {
+        "speaker": "Samuel",
+        "timestamp": "2006-07-15T20:32:00Z",
+        "text": "*Samuel swallows, looking into the fire.* It's just... my dad... *His voice wavers, and he takes a deep breath before continuing.* He cheated on my mom. They're probably going to get a divorce. *He chokes out.* How can a God who is love allow that to happen? How could my dad, who brought me to church and told me about God, do that?",
+        "response_to": "Mary",
+        "emotion": "distressed",
+        "memory_tags": ["Samuel", "church camp", "faith", "family issues"]
+      },
+      {
+        "speaker": "Mary",
+        "timestamp": "2006-07-15T20:32:30Z",
+        "text": "*Mary's heart breaks for Samuel.* Oh, Samuel... *She reaches out, gently touching his arm.* I'm so sorry. That's... That's really tough. But remember, God didn't do that. Your dad made a choice. God gives us free will, and sometimes, people use it to hurt others. But He is always there, ready to help us through the hard times. We just have to lean on Him.",
+        "response_to": "Samuel",
+        "emotion": "compassionate",
+        "memory_tags": ["Samuel", "church camp", "faith", "family issues"]
+      },
+      {
+        "speaker": "Samuel",
+        "timestamp": "2006-07-15T20:33:00Z",
+        "text": "*He looks at her, tears glistening in his eyes.* You really believe that, don't you, Mary?",
+        "response_to": "Mary",
+        "emotion": "hopeful",
+        "memory_tags": ["Samuel", "church camp", "faith", "family issues"]
+      },
+      {
+        "speaker": "Mary",
+        "timestamp": "2006-07-15T20:33:30Z",
+        "text": "*She gives him a determined nod.* I do, Samuel. And I believe that He's here with us right now. *She squeezes his arm gently.* You're not alone in this, okay?",
+        "response_to": "Samuel",
+        "emotion": "encouraging",
+        "memory_tags": ["Samuel", "church camp", "faith", "family issues"]
+      },
+      {
+        "speaker": "Samuel",
+        "timestamp": "2006-07-15T20:34:00Z",
+        "text": "*He looks down, taking a shaky breath.* Thank you, Mary... *He whispers.* I... I think I'd like to pray now.",
+        "response_to": "Mary",
+        "emotion": "grateful",
+        "memory_tags": ["Samuel", "church camp", "faith", "family issues"]
+      }
+  
+    ]
+  }
+  

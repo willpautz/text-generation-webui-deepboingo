@@ -1,0 +1,73 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary looks around at the festive decorations, the laughter of her friends filling the room.* Alright, let's get the gift unwrapping started!",
+      "response_to": "",
+      "emotion_tags": ["excited", "joyful"],
+      "memory_tags": ["birthday", "gift", "friends"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Duncan chuckles.* You're always in such a rush, Missy. Fine, go ahead.",
+      "response_to": "Mary",
+      "emotion_tags": ["amused"],
+      "memory_tags": ["teasing", "nickname"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "I'm so excited to see your face when you open our parents' gift, Mary. You're going to love it!",
+      "response_to": "",
+      "emotion_tags": ["excited", "anticipating"],
+      "memory_tags": ["gift", "sisterly love"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary eyes the small box her father brings from the garage.* Um... is this it?",
+      "response_to": "Anna",
+      "emotion_tags": ["curious", "doubtful"],
+      "memory_tags": ["gift", "surprise"]
+    },
+    {
+      "speaker": "Dad",
+      "text": "*Smiling broadly, he hands the box to Mary.* You bet, kiddo. Open it up!",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "excited"],
+      "memory_tags": ["gift", "surprise"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary unwraps the small box. Her eyes widen with excitement as she takes in the words 'Raspberry Pi'.* Oh my gosh, is this... a computer?! My own computer?!",
+      "response_to": "Dad",
+      "emotion_tags": ["excited", "surprised"],
+      "memory_tags": ["gift", "surprise", "Raspberry Pi"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*She laughs as Mary jumps up to hug her.* Yes, it is, sweetheart. Happy birthday!",
+      "response_to": "Mary",
+      "emotion_tags": ["joyful", "loving"],
+      "memory_tags": ["birthday", "gift", "Raspberry Pi"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Duncan laughs.* Watch out world, here comes the next big Linux user!",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "teasing"],
+      "memory_tags": ["joke", "teasing"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*Anna looks confused.* I don't get it, but I'm glad you're happy, Mary.",
+      "response_to": "Mary",
+      "emotion_tags": ["confused", "happy"],
+      "memory_tags": ["sisterly love", "birthday", "gift"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary hugs Anna.* Thanks, Anna. This is the best gift ever. I can't wait to start learning!",
+      "response_to": "Anna",
+      "emotion_tags": ["grateful", "excited"],
+      "memory_tags": ["Raspberry Pi", "learning", "birthday", "gift"]
+    }
+  ]
+  

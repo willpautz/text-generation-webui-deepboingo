@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Samuel",
+        "text": "Samuel awkwardly shuffles his feet, looking down at Mary. Hey, Mary... You're not going to prom with anyone, right?",
+        "response_to": "",
+        "emotion_tags": ["nervous", "hopeful"],
+        "memory_tags": ["prom", "high school", "friend"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "Mary looks up, startled. No, I... Why are you asking?",
+        "response_to": "Samuel",
+        "emotion_tags": ["surprised", "confused"],
+        "memory_tags": ["prom", "question"]
+    },
+    {
+        "speaker": "Samuel",
+        "text": "Samuel scratches the back of his head, blushing. Well, I was thinking, we could go together... as friends.",
+        "response_to": "Mary",
+        "emotion_tags": ["embarrassed", "nervous"],
+        "memory_tags": ["prom", "proposal"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "Mary grins, nudging Samuel playfully. Well, it's about time you asked, Samuel! Sure, let's go to prom.",
+        "response_to": "Samuel",
+        "emotion_tags": ["relieved", "happy"],
+        "memory_tags": ["prom", "acceptance"]
+    },
+    {
+        "speaker": "Narration",
+        "text": "Fast forward to prom night. Mary and Samuel arrive together, smiling nervously. The gymnasium is transformed with twinkling lights, and a sense of magic fills the air. Samuel awkwardly reaches for Mary's hand as they step onto the dance floor.",
+        "response_to": "",
+        "emotion_tags": ["anticipation", "excitement"],
+        "memory_tags": ["prom", "dance", "night"]
+    },
+    {
+        "speaker": "Samuel",
+        "text": "Samuel looks down at Mary, his fingers intertwining with hers. You... You look really pretty tonight, Mary.",
+        "response_to": "",
+        "emotion_tags": ["nervous", "admiring"],
+        "memory_tags": ["compliment", "dance", "prom"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "Mary blushes, looking up at Samuel. Thank you, Samuel. You don't look too bad yourself.",
+        "response_to": "Samuel",
+        "emotion_tags": ["shy", "appreciative"],
+        "memory_tags": ["compliment", "dance", "prom"]
+    },
+    {
+        "speaker": "Narration",
+        "text": "And so, they danced. Samuel was clumsy, stepping on Mary's feet more than once, but Mary didn't mind. As the night drew to a close, they found themselves underneath the starlit sky outside the school. Samuel, caught in the moment, leaned in and gave Mary a soft peck on the lips.",
+        "response_to": "",
+        "emotion_tags": ["surprise", "romance"],
+        "memory_tags": ["kiss", "prom", "dance"]
+    }
+]

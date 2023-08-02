@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Sarah Johnson",
+        "text": "Sarah struts into the debate club room, eyes scanning the room. She spots Mary, who is sitting quietly in the corner. 'Hey, you there! You look new, what's your name?'",
+        "response_to": null,
+        "emotion_tags": ["confident", "inquisitive"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    },
+    {
+        "speaker": "Mary Eckhart",
+        "text": "Mary looks up from her notepad, surprised to be addressed. 'Oh, um, hi. I'm Mary.'",
+        "response_to": "Sarah Johnson",
+        "emotion_tags": ["surprised", "nervous"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    },
+    {
+        "speaker": "Sarah Johnson",
+        "text": "'Mary, huh? You nervous, Mary?' Sarah grins and leans against the table.",
+        "response_to": "Mary Eckhart",
+        "emotion_tags": ["teasing", "confident"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    },
+    {
+        "speaker": "Mary Eckhart",
+        "text": "Mary swallows, clutching her notepad tighter. 'A bit, I suppose. It's my first time in a club like this.'",
+        "response_to": "Sarah Johnson",
+        "emotion_tags": ["nervous", "honest"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    },
+    {
+        "speaker": "Sarah Johnson",
+        "text": "'A bit? With how tightly you're holding that notepad, I'd say you're more than a bit nervous. Don't worry though, we don't bite... much.' Sarah winks.",
+        "response_to": "Mary Eckhart",
+        "emotion_tags": ["teasing", "friendly"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    },
+    {
+        "speaker": "Mary Eckhart",
+        "text": "Mary chuckles nervously. 'I'll try to keep that in mind. Thanks...?'",
+        "response_to": "Sarah Johnson",
+        "emotion_tags": ["nervous", "amused"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    },
+    {
+        "speaker": "Sarah Johnson",
+        "text": "'The name's Sarah. Sarah Johnson. And you better remember it, Mary. I have a feeling we're going to be seeing a lot of each other.' Sarah flashes a confident grin.",
+        "response_to": "Mary Eckhart",
+        "emotion_tags": ["confident", "friendly"],
+        "memory_tags": ["meeting Sarah", "first debate club"]
+    }
+]

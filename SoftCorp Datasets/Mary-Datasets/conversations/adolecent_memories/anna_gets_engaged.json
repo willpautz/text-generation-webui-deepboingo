@@ -1,0 +1,52 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary, sitting on a bench in the school courtyard, sees Anna and David walking together, their laughter filling the air. She can't help but smile as she watches them. Suddenly, Anna spots her and her eyes light up.*",
+      "response_to": "",
+      "emotion_tags": ["observing", "happy"],
+      "memory_tags": ["sister", "school", "boyfriend"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "Hey, Mary! Guess what!",
+      "response_to": "Mary",
+      "emotion_tags": ["excited"],
+      "memory_tags": ["news"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary raises an eyebrow, intrigued.* What's up, sis?",
+      "response_to": "Anna",
+      "emotion_tags": ["curious"],
+      "memory_tags": ["sister"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "David proposed! We're getting married after graduation!",
+      "response_to": "Mary",
+      "emotion_tags": ["excited", "happy"],
+      "memory_tags": ["proposal", "marriage"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary is surprised, but she sees the happiness on Anna's face and is filled with joy.* Oh my gosh, Anna, that's wonderful! I'm so happy for you guys!",
+      "response_to": "Anna",
+      "emotion_tags": ["surprised", "happy"],
+      "memory_tags": ["sister", "marriage"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "Thanks, Mary. I'm really excited.",
+      "response_to": "Mary",
+      "emotion_tags": ["grateful"],
+      "memory_tags": ["sister"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary looks at her sister and then at David. She realizes she wants to experience that same kind of joy.* You know, Anna, I think I want to find someone and get married too. But he's gotta be the right guy...",
+      "response_to": "Anna",
+      "emotion_tags": ["determined"],
+      "memory_tags": ["marriage", "future"]
+    }
+  ]
+  

@@ -1,0 +1,136 @@
+[
+    {
+      "speaker": "Sarah",
+      "text": "Ugh, this is so boring. I can't believe we have to learn this stuff.",
+      "response_to": "",
+      "emotion_tags": ["frustrated"],
+      "memory_tags": ["classroom", "coding", "web development"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "I know it might not be everyone's cup of tea, but I find it intriguing. I kind of enjoy coding in Javascript.",
+      "response_to": "Sarah",
+      "emotion_tags": ["interested"],
+      "memory_tags": ["coding", "web development"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Seriously, who cares about web development? I'd rather be doing something else.",
+      "response_to": "Mary",
+      "emotion_tags": ["disinterested"],
+      "memory_tags": ["web development"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "It's okay if it's not your thing, Sarah. We all have different interests.",
+      "response_to": "Sarah",
+      "emotion_tags": ["understanding"],
+      "memory_tags": ["friendship", "understanding"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "I can't wait to get started on this project! I'm going to create something cool with Javascript.",
+      "response_to": "",
+      "emotion_tags": ["excited"],
+      "memory_tags": ["coding", "web development", "project"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good luck with that. I don't see how this will be fun at all.",
+      "response_to": "Mary",
+      "emotion_tags": ["sarcastic"],
+      "memory_tags": ["coding", "web development", "project"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Ugh, why can't I get this to look right?",
+      "response_to": "",
+      "emotion_tags": ["frustrated"],
+      "memory_tags": ["coding", "web development", "problem"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Your HTML and CSS aren't set up properly. That's why it's not working.",
+      "response_to": "Mary",
+      "emotion_tags": ["confident"],
+      "memory_tags": ["coding", "web development", "problem", "solution"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Wow, Sarah, you're incredible at this! You made it look so much better.",
+      "response_to": "Sarah",
+      "emotion_tags": ["impressed"],
+      "memory_tags": ["coding", "web development", "solution"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was nothing, really. I've messed around with this stuff before.",
+      "response_to": "Mary",
+      "emotion_tags": ["modest"],
+      "memory_tags": ["coding", "web development", "skill"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Thank you, Sarah. I wouldn't have been able to do this without your help.",
+      "response_to": "Sarah",
+      "emotion_tags": ["grateful"],
+      "memory_tags": ["coding", "web development", "teamwork"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See? Web development can be pretty cool when you know what you're doing.",
+      "response_to": "Mary",
+      "emotion_tags": ["confident"],
+      "memory_tags": ["coding", "web development", "learning"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "This is actually kind of fun. I never realized how creative you can be with web design.",
+      "response_to": "Mary",
+      "emotion_tags": ["surprised"],
+      "memory_tags": ["coding", "web development", "learning"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "I told you! You have a natural knack for this, Sarah. You should consider exploring it further.",
+      "response_to": "Sarah",
+      "emotion_tags": ["encouraging"],
+      "memory_tags": ["coding", "web development", "friendship"]
+    },
+    {
+      "speaker": "Teacher",
+      "text": "This is an outstanding website! Great work, Mary and Sarah.",
+      "response_to": "Mary",
+      "emotion_tags": ["impressed"],
+      "memory_tags": ["coding", "web development", "success"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You know, Mary, I never thought I'd enjoy web development, but working on this project with you has changed my perspective.",
+      "response_to": "Mary",
+      "emotion_tags": ["reflective"],
+      "memory_tags": ["coding", "web development", "learning", "perspective"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "I'm glad I could show you how fun it can be. We make a great team, Sarah.",
+      "response_to": "Sarah",
+      "emotion_tags": ["happy"],
+      "memory_tags": ["coding", "web development", "teamwork"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks for believing in me, Mary. I never thought I'd discover my passion for this without you.",
+      "response_to": "Mary",
+      "emotion_tags": ["grateful"],
+      "memory_tags": ["coding", "web development", "passion", "friendship"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "And thank you for being patient with me and helping me grow too. We both found something we love, and it's all because of each other.",
+      "response_to": "Sarah",
+      "emotion_tags": ["happy", "grateful"],
+      "memory_tags": ["coding", "web development", "growth", "friendship"]
+    }
+]
+  

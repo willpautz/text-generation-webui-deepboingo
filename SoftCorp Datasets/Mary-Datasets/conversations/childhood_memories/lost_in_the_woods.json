@@ -1,0 +1,87 @@
+[
+    {
+      "speaker": "Duncan",
+      "text": "*Laughing* Come on, you two! The best view awaits at the top! Don't you want to see?",
+      "response_to": null,
+      "emotion_tags": ["excitement"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Panting* Slow down, Duncan! Anna can't keep up... and honestly, neither can I.",
+      "response_to": "Duncan",
+      "emotion_tags": ["exhaustion", "concerned"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*Looking at the stream nervously* I'm... I'm not sure I can cross the stream like you did...",
+      "response_to": "Mary",
+      "emotion_tags": ["anxiety", "fear"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "Duncan, we need to help Anna. She's scared and so am I.",
+      "response_to": "Anna",
+      "emotion_tags": ["concerned", "worried"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Teasingly* Oh, are the river trolls spooking you, Anna? Alright, let's go back. You too, Missy.",
+      "response_to": "Mary",
+      "emotion_tags": ["teasing", "reassuring"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*In surprise* Missy? Why would you... *her voice trails off* Anna's gone!",
+      "response_to": "Duncan",
+      "emotion_tags": ["confused", "panicked"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Softly* Alright, Missy, we need to calm down. We'll find her. But we need a torch, it's getting dark.",
+      "response_to": "Mary",
+      "emotion_tags": ["calm", "worried"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Tears welling up* No! We can't leave her in these woods, Duncan!",
+      "response_to": "Duncan",
+      "emotion_tags": ["fear", "determined"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Firmly* Missy, we need help. We can't find Anna in the dark. Let's go back to Grandma and Grandpa's. *Reluctantly, Mary and Duncan make their way back through the ever-darkening woods back to their grandparents' house, dreading the punishment in store for them, but dreading the fate of Anna even more.",
+      "response_to": "Mary",
+      "emotion_tags": ["worried", "pragmatic"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*Grinning over a mug of hot cocoa* Well, well, well. You left me behind, did you? You should've seen your faces!",
+      "response_to": null,
+      "emotion_tags": ["smug", "amusement"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Laughing and hugging Anna* Anna! You scared us! But...I gotta admit, you got us good.",
+      "response_to": "Anna",
+      "emotion_tags": ["relief", "amusement"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Tears of relief streaming down* Oh, Anna! I'm so glad you're safe. Duncan, I'm...I'm proud of how you handled everything.",
+      "response_to": "Duncan",
+      "emotion_tags": ["relief", "pride"],
+      "memory_tags": ["Family - Duncan", "Family - Anna", "Childhood"]
+    }
+  ]
+  

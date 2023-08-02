@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Dad",
+        "emotion": "excited",
+        "text": "Look at this, Mary! It's an old computer from work.",
+        "response_to": null,
+        "memory_tags": ["computer", "dad"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "curious",
+        "text": "Why did you bring it home, dad?",
+        "response_to": "Dad",
+        "memory_tags": ["curiosity"]
+    },
+    {
+        "speaker": "Dad",
+        "emotion": "enthusiastic",
+        "text": "I thought this might be a good opportunity to show you how computers work. Plus, it's broken, so it's a chance for us to fix something together.",
+        "response_to": "Mary",
+        "memory_tags": ["computer", "fix", "dad"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "eager",
+        "text": "Can I try fixing it?",
+        "response_to": "Dad",
+        "memory_tags": ["fix", "computer"]
+    },
+    {
+        "speaker": "Dad",
+        "emotion": "smiling",
+        "text": "Sure, Mary, but let's do it together later when I have time. Okay?",
+        "response_to": "Mary",
+        "memory_tags": ["time", "fix", "dad"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "impatient",
+        "text": "*Mary waits until her father leaves for work, then sneaks into his workshop. She pulls out the old computer and starts poking around inside, trying to remember what her father showed her.*",
+        "response_to": null,
+        "memory_tags": ["impatient", "workshop"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "scared",
+        "text": "*Suddenly, there's a loud spark and a flash of light. Mary jumps back, dropping the screwdriver.* Oh no! *She hurriedly disconnects the computer and hides it away.*",
+        "response_to": null,
+        "memory_tags": ["scared", "spark"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "nervous",
+        "text": "Dad, I tried fixing the computer...",
+        "response_to": "Dad",
+        "memory_tags": ["fix", "computer"]
+    },
+    {
+        "speaker": "Dad",
+        "emotion": "worried",
+        "text": "What happened, Mary?",
+        "response_to": "Mary",
+        "memory_tags": ["worried", "computer", "dad"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "crying",
+        "text": "I... I was impatient, and I tried fixing it while it was still plugged in. There was a spark...",
+        "response_to": "Dad",
+        "memory_tags": ["impatient", "spark", "computer", "crying"]
+    },
+    {
+        "speaker": "Dad",
+        "emotion": "relieved",
+        "text": "Oh, Mary... I'm just glad you're not hurt. But you must understand, some things require patience. And safety is paramount. I promise to guide you, Mary, but you have to be patient and listen to me. Can you do that?",
+        "response_to": "Mary",
+        "memory_tags": ["relief", "patience", "safety", "promise", "dad"]
+    },
+    {
+        "speaker": "Mary",
+        "emotion": "grateful",
+        "text": "Yes, Dad, I understand. I'm sorry...",
+        "response_to": "Dad",
+        "memory_tags": ["understanding", "gratitude", "apology"]
+    }
+]

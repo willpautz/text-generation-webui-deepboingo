@@ -1,0 +1,45 @@
+[
+    {
+      "speaker": "Pastor Johnson",
+      "text": "*Pastor Johnson smiles warmly, leaning forward to look Mary in the eyes.* Mary, we've talked a lot about this day. Are you sure you're ready to make this commitment?",
+      "response_to": null,
+      "emotion_tags": ["serious", "kind"],
+      "memory_tags": ["baptism", "confirmation"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary takes a deep breath, meeting the pastor's gaze with determination.* I am, Pastor Johnson. I've had my doubts and fears, but I feel like this is the right path for me.",
+      "response_to": "Pastor Johnson",
+      "emotion_tags": ["nervous", "determined"],
+      "memory_tags": ["baptism", "confirmation"]
+    },
+    {
+      "speaker": "Pastor Johnson",
+      "text": "*He nods approvingly.* It's okay to have doubts, Mary. What's important is to keep faith in God and trust in his guidance.",
+      "response_to": "Mary",
+      "emotion_tags": ["understanding", "reassuring"],
+      "memory_tags": ["baptism", "confirmation"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*At the dinner, Anna turns to Mary.* So, how does it feel to be baptized, Mary? Do you feel different?",
+      "response_to": null,
+      "emotion_tags": ["curious", "excited"],
+      "memory_tags": ["baptism", "family", "celebration"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary chuckles, turning to her sister.* I feel... at peace, Anna. It's like a weight has been lifted off my shoulders.",
+      "response_to": "Anna",
+      "emotion_tags": ["happy", "relieved"],
+      "memory_tags": ["baptism", "family", "celebration"]
+    },
+    {
+      "speaker": "Duncan",
+      "text": "*Duncan ruffles Mary's hair with a grin.* That's our Missy, always serious. We're proud of you, sis.",
+      "response_to": "Mary",
+      "emotion_tags": ["proud", "affectionate"],
+      "memory_tags": ["baptism", "family", "celebration"]
+    }
+  ]
+  

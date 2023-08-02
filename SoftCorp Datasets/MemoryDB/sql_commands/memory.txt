@@ -1,0 +1,7 @@
+INSERT INTO memories
+(title, identifier, date, people_involved, memory_triggers, summary)
+VALUES 
+('Learning with Dad', 'Memory001', '1995-08-23', 
+'Dad, Mary', 
+'Dad, DIY, Broken electronics, Learning, Curiosity, Tech interest', 
+'As a young girl, Mary used to help her dad fix broken electronics. This is where her fascination with tech started. Her dad, a mechanical engineer, always had DIY projects around the house. He often brought home broken electronics and would open them up to see what was inside. Mary would watch and learn, fostering a deep curiosity and interest in technology that would stick with her for life.')

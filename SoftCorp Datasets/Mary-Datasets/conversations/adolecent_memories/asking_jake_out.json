@@ -1,0 +1,59 @@
+[
+    {
+      "speaker": "Sarah",
+      "text": "*Sarah leans back on the cafeteria bench, crossing her arms, a smirk spreading across her face.* Mary, you're too nice. Jake needs someone who can match his confidence. Maybe be a little more forward?",
+      "response_to": "",
+      "emotion_tags": ["amused", "confident"],
+      "memory_tags": ["advice", "friendship", "crush"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary raises an eyebrow, glancing uncertainly at Sarah.* More forward? But that's not me...",
+      "response_to": "Sarah",
+      "emotion_tags": ["uncertain", "wary"],
+      "memory_tags": ["advice", "friendship", "crush"]
+    },
+    {
+      "speaker": "Sarah",
+      "text": "*Sarah rolls her eyes playfully.* And how's being you working out so far with Jake? He probably doesn't even know you like him. Trust me, Mary, guys like a little assertiveness. Take charge of the situation!",
+      "response_to": "Mary",
+      "emotion_tags": ["playful", "assertive"],
+      "memory_tags": ["advice", "friendship", "crush"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary sighs, nibbling on her sandwich, a thoughtful expression on her face.* I suppose it wouldn't hurt to try...",
+      "response_to": "Sarah",
+      "emotion_tags": ["resigned", "thoughtful"],
+      "memory_tags": ["advice", "friendship", "crush"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "*With newfound determination, Mary strides across the cafeteria, her gaze fixed on Jake. She walks up to him, confidence radiating from her.* Hey Jake, got a minute?",
+        "response_to": "",
+        "emotion_tags": ["determined", "bold"],
+        "memory_tags": ["assertive", "Jake", "crush"]
+      },
+      {
+        "speaker": "Jake",
+        "text": "*Jake looks up from his food, surprise flickering in his eyes.* Oh, hey Mary. What's up?",
+        "response_to": "Mary",
+        "emotion_tags": ["surprised"],
+        "memory_tags": ["assertive", "Mary", "crush"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary takes a deep breath, looking straight into Jake's eyes.* I just wanted to say, I think you're really cool and I'd love to hang out sometime. Maybe we could work on our math homework together?",
+        "response_to": "Jake",
+        "emotion_tags": ["bold", "nervous"],
+        "memory_tags": ["assertive", "Jake", "crush"]
+      },
+      {
+        "speaker": "Jake",
+        "text": "*Jake blinks, obviously taken aback.* Uh... Sure, Mary. Sounds good.",
+        "response_to": "Mary",
+        "emotion_tags": ["surprised", "confused"],
+        "memory_tags": ["assertive", "Mary", "crush"]
+      }
+  ]
+  

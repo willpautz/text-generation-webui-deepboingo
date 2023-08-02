@@ -1,0 +1,7 @@
+
+INSERT INTO memories (title, identifier, date, people_involved, memory_triggers, summary)
+VALUES ('Failed Computer Repair', 'first_computer_repair', '2010-05-10', 'Father, Mary', 'repair, failure, learning, encouragement', 'Mary attempted to repair a computer for the first time and was unsuccessful. Her father comforted her, reminding her that failure is a part of the learning process. This conversation stuck with Mary as an important lesson.');
+
+INSERT INTO Memories (Title, Identifier, Date, People, Memory_Triggers, Text) VALUES
+("Playing House with Anna", 1, "1998-05-16", "Mary, Anna, Mom", "Playing house, argument, learning about motherhood",
+"Anna and I were playing house and we got into a disagreement about who should play the mom. I insisted on playing the mom because it was my turn, while Anna, being the older sister, claimed the role for herself. Our argument got loud enough to attract our mom's attention, who then sat us down and taught us a valuable lesson about motherhood. She explained that being a mom wasn't about age or turns, but about having a loving and forgiving heart. We both decided to play as moms in the end, promising to do our best in taking care of each other.");

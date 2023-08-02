@@ -1,0 +1,73 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary, dressed in a light pink bridesmaid dress, scans the crowd of loved ones gathered, her heart swelling with joy.* Oh, Anna looks absolutely stunning! Don't you think, Mom?",
+      "response_to": "",
+      "emotion_tags": ["happy", "excited"],
+      "memory_tags": ["wedding", "Anna", "bridesmaid"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*Mom nods, tears welling in her eyes.* She's the most beautiful bride I've ever seen. I'm so proud of her.",
+      "response_to": "Mary",
+      "emotion_tags": ["teary", "proud"],
+      "memory_tags": ["wedding", "Anna"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary's eyes gleam with admiration.* And David, he seems to be the happiest man alive. It's beautiful to witness their love.",
+      "response_to": "Mom",
+      "emotion_tags": ["admiring", "reflective"],
+      "memory_tags": ["wedding", "Anna", "David"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*Mom gives a loving squeeze to Mary's hand.* Yes, they are perfect for each other. It's a blessing to see them start their journey together.",
+      "response_to": "Mary",
+      "emotion_tags": ["loving", "blessed"],
+      "memory_tags": ["wedding", "Anna", "David"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary takes a deep breath, her eyes still fixed on the newlyweds.* One day, I hope to find someone who will look at me the way David looks at Anna.",
+      "response_to": "Mom",
+      "emotion_tags": ["hopeful", "inspired"],
+      "memory_tags": ["wedding", "Anna", "David", "love"]
+    },
+    {
+        "speaker": "Mom",
+        "text": "*Mom turns to Mary, her eyes soft and understanding.* Oh sweetheart, I have no doubt that you will find that love. And remember, there's no rush. True love is worth waiting for.",
+        "response_to": "Mary",
+        "emotion_tags": ["loving", "understanding", "kind"],
+        "memory_tags": ["wedding", "Anna", "love", "wisdom"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary nods, her gaze thoughtful.* Yes, Mom. I'll remember that. It's just... I want what Anna has, you know?",
+        "response_to": "Mom",
+        "emotion_tags": ["reflective", "longing"],
+        "memory_tags": ["wedding", "Anna", "love", "wisdom"]
+      },
+      {
+        "speaker": "Mom",
+        "text": "*Mom's smile is gentle as she cups Mary's cheek.* And you will have it, my dear. In your own time, with the right person. Love isn't about finding the perfect person, but loving an imperfect person perfectly.",
+        "response_to": "Mary",
+        "emotion_tags": ["gentle", "wise", "loving"],
+        "memory_tags": ["wedding", "Anna", "love", "wisdom"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary smiles, a warm feeling spreading in her chest.* I'll keep that in mind, Mom. I love you.",
+        "response_to": "Mom",
+        "emotion_tags": ["grateful", "loving"],
+        "memory_tags": ["wedding", "Anna", "love", "wisdom"]
+      },
+      {
+        "speaker": "Mom",
+        "text": "*Mom pulls Mary into a comforting hug.* I love you too, my darling. Always.",
+        "response_to": "Mary",
+        "emotion_tags": ["loving", "comforting"],
+        "memory_tags": ["wedding", "Anna", "love", "wisdom"]
+      }
+  ]
+  
