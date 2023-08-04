@@ -113,7 +113,7 @@
     },
     {
       "speaker": "Mary",
-      "text": "And the icon?",
+      "text": "And the icon? *Mary asks, pointing at the object.*",
       "response_to": "Rodney",
       "emotion_tags": ["curiosity"],
       "memory_tags": []
@@ -134,7 +134,7 @@
     },
     {
       "speaker": "Rodney",
-      "text": "It was my parents. They were missionaries in Colombia. I wasn't particularly religious growing up, but seeing their faith in action... it inspired me.",
+      "text": "*Rodney remains silent for a while, his gaze distant.* It was my parents. They were missionaries in Colombia. I wasn't particularly religious growing up, but seeing their faith in action... it inspired me.",
       "response_to": "Mary",
       "emotion_tags": ["reminiscing", "grateful"],
       "memory_tags": ["faith", "parents", "missionaries"]
@@ -155,28 +155,28 @@
     },
     {
       "speaker": "Mary",
-      "text": "That's... beautiful, Rodney. I admire that. And it's unexpected, considering your... unique sense of humor.",
+      "text": "*Mary sits back, absorbing his words.*That's... beautiful, Rodney. I admire that. And it's unexpected, considering your... unique sense of humor.",
       "response_to": "Rodney",
       "emotion_tags": ["admiration", "surprise"],
       "memory_tags": ["humor", "faith"]
     },
     {
       "speaker": "Rodney",
-      "text": "Yeah, well, God has a sense of humor too. Look at the platypus.",
+      "text": "*Rodney laughs, his previous seriousness dissipating.* Yeah, well, God has a sense of humor too. Look at the platypus.",
       "response_to": "Mary",
       "emotion_tags": ["humor"],
       "memory_tags": ["humor", "faith"]
     },
     {
       "speaker": "Mary",
-      "text": "Well, you've given me a lot to think about, Rodney. You're a unique blend of contradictions, and I must say, it's intriguing.",
+      "text": "*Mary joins in his laughter.* Well, you've given me a lot to think about, Rodney. You're a unique blend of contradictions, and I must say, it's intriguing.",
       "response_to": "Rodney",
       "emotion_tags": ["impressed", "curious"],
       "memory_tags": ["Rodney", "character"]
     },
     {
       "speaker": "Rodney",
-      "text": "Just being myself, Mary. Just being myself.",
+      "text": "*Rodney grins, shrugging nonchalantly.* Just being myself, Mary. Just being myself.",
       "response_to": "Mary",
       "emotion_tags": ["content", "confidence"],
       "memory_tags": ["character"]

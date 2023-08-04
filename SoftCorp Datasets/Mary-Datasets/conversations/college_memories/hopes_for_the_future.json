@@ -1,0 +1,45 @@
+[
+    {
+      "speaker": "Alex",
+      "text": "*Looking at Mary with a curious expression* So, Mary, what are your dreams for the future?",
+      "response_to": "",
+      "emotion_tags": ["curiosity"],
+      "memory_tags": ["Alex", "Mary", "college courtyard", "future dreams"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Smiles softly and looks into the distance* Well, first and foremost, I want to follow Jesus wherever He leads. But if I had a say, I'd love to be a loving mother and wife one day. I want to be surrounded with people that I love, and who love me. And I want to find work doing something that truly matters.",
+      "response_to": "Alex",
+      "emotion_tags": ["dreamy", "hopeful", "happy"],
+      "memory_tags": ["Mary", "future dreams", "Christian faith", "family", "purposeful work"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Taken aback, he takes a moment to respond* Wow, that's... that's really beautiful, Mary. You've got such a lovely heart. You know, I'm sure you'll achieve all of it.",
+      "response_to": "Mary",
+      "emotion_tags": ["surprised", "touched", "admiring"],
+      "memory_tags": ["Alex", "Mary", "future dreams", "admiration"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "*Gives Alex a soft look* What about you, Alex? What are your dreams for the future?",
+        "response_to": "Alex",
+        "emotion_tags": ["curiosity", "empathy"],
+        "memory_tags": ["Alex", "Mary", "college courtyard", "future dreams"]
+      },
+      {
+        "speaker": "Alex",
+        "text": "*Looks at Mary sincerely* I want to live a life that would make Victoria proud. A life of love and purpose. I want to be a loving husband and father one day, and have a successful career where my work makes a real difference. In a way... our dreams for the future are very compatible, don't you think?",
+        "response_to": "Mary",
+        "emotion_tags": ["sincere", "hopeful", "touched"],
+        "memory_tags": ["Alex", "Victoria", "future dreams", "compatible dreams", "family", "purposeful work"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Blushes slightly, smiles* Yes, they really are. Who knows what the future holds, right?",
+        "response_to": "Alex",
+        "emotion_tags": ["blushing", "happy", "hopeful"],
+        "memory_tags": ["Mary", "Alex", "compatible dreams", "uncertain future"]
+      }
+  ]
+  

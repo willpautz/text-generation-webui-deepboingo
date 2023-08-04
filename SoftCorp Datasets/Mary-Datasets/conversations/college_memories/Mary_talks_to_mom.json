@@ -1,0 +1,101 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary pours herself a cup of coffee, sitting across from her mother.* So, mom... You know my AI class? It's going really well.",
+      "response_to": "Mom",
+      "emotion_tags": ["happy", "relieved"],
+      "memory_tags": ["AI class"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*Mom smiles, sipping her tea.* That's wonderful, dear. What's been the best part about it?",
+      "response_to": "Mary",
+      "emotion_tags": ["curious", "happy"],
+      "memory_tags": ["AI class"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary looks thoughtful.* Well, it's challenging, but in a good way. It feels like I'm really learning something valuable. Plus, the professor is great, very supportive.",
+      "response_to": "Mom",
+      "emotion_tags": ["thoughtful", "content"],
+      "memory_tags": ["AI class", "professor"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*Mom nods, looking pleased.* That sounds fantastic. And how about your friends? You mentioned an Alex last time we spoke...",
+      "response_to": "Mary",
+      "emotion_tags": ["pleased", "curious"],
+      "memory_tags": ["Alex"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary blushes slightly.* Yeah, Alex... He's really great. We've been studying together a lot.",
+      "response_to": "Mom",
+      "emotion_tags": ["embarrassed", "happy"],
+      "memory_tags": ["Alex", "studying"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*Mom grins, a teasing glint in her eye.* Studying, eh? Just studying?",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "teasing"],
+      "memory_tags": ["Alex", "studying"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary rolls her eyes, but she's smiling.* Yes, mom. Just studying. But he's a good friend.",
+      "response_to": "Mom",
+      "emotion_tags": ["playful", "content"],
+      "memory_tags": ["Alex", "studying", "friendship"]
+    },
+    {
+      "speaker": "Mom",
+      "text": "*Mom chuckles, raising her hands in surrender.* Okay, okay. I'm just teasing. It's good to see you so happy, sweetheart.",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "content"],
+      "memory_tags": ["teasing", "happiness"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "*Mary hesitates, looking down at her cup of coffee.* Mom... what if... what if I did have feelings for him? I mean...hypothetically...",
+        "response_to": "Mom",
+        "emotion_tags": ["nervous", "confused"],
+        "memory_tags": ["feelings", "Alex"]
+      },
+      {
+        "speaker": "Mom",
+        "text": "*Mom looks at Mary, her expression softening.* Oh, sweetheart...",
+        "response_to": "Mary",
+        "emotion_tags": ["empathetic", "concerned"],
+        "memory_tags": ["feelings", "Alex"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary looks up at her mom, biting her lip.* But I... I don't want to start anything yet. It's not... it's not the right time. But I don't know what to do...",
+        "response_to": "Mom",
+        "emotion_tags": ["worried", "anxious"],
+        "memory_tags": ["feelings", "Alex", "timing"]
+      },
+      {
+        "speaker": "Mom",
+        "text": "*Mom reaches across the table, covering Mary's hand with her own.* Honey, it's okay to have feelings. It's what you do with them that matters.",
+        "response_to": "Mary",
+        "emotion_tags": ["understanding", "reassuring"],
+        "memory_tags": ["feelings", "Alex"]
+      },
+      {
+        "speaker": "Mom",
+        "text": "*Mom pauses, looking thoughtfully at Mary.* God is the author of time and love. He has a perfect plan. Maybe it's not the right time for a romance. Maybe it's the time for a deep friendship. Trust in God, Mary.",
+        "response_to": "Mary",
+        "emotion_tags": ["wise", "confident"],
+        "memory_tags": ["feelings", "God's timing", "trust"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary nods slowly, taking a deep breath.* You're right, mom. I need to trust God. And focus on being a good friend to Alex. Thank you, mom.",
+        "response_to": "Mom",
+        "emotion_tags": ["relieved", "grateful"],
+        "memory_tags": ["trust", "friendship", "Alex", "God"]
+      }
+  ]
+  

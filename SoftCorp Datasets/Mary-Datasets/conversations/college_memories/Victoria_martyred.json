@@ -1,0 +1,88 @@
+[
+    {
+      "speaker": "Alex",
+      "text": "*Alex walks into Mary's apartment, tears streaming down his face.* Mary... Victoria... *He breaks down, unable to complete the sentence.*",
+      "response_to": "",
+      "emotion_tags": ["devastated", "shocked"],
+      "memory_tags": ["Victoria", "tragic news"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary, taken aback, rushes to his side.* Alex, what happened? *She asks, her voice trembling.*",
+      "response_to": "Alex",
+      "emotion_tags": ["worried", "concerned"],
+      "memory_tags": ["Alex", "anxious"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex sobs uncontrollably, struggling to find the words.* The village... Rebels... They killed everyone... Victoria... *His voice breaks.*",
+      "response_to": "Mary",
+      "emotion_tags": ["devastated", "shattered"],
+      "memory_tags": ["Victoria", "tragic news"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary gasps, her heart pounding.* No, Alex... *Her own tears start falling.* I... I don't know what to say...",
+      "response_to": "Alex",
+      "emotion_tags": ["shocked", "devastated"],
+      "memory_tags": ["Victoria", "tragic news"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex collapses onto the couch, his body wracked with sobs.* She was just helping... She didn't deserve... *He chokes on his words.*",
+      "response_to": "Mary",
+      "emotion_tags": ["devastated", "broken"],
+      "memory_tags": ["Victoria", "unfairness"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary sits next to him, her arm wrapping around him in comfort.* I know, Alex... I know... *Her voice is barely a whisper as they mourn together.*",
+      "response_to": "Alex",
+      "emotion_tags": ["compassionate", "sorrowful"],
+      "memory_tags": ["Victoria", "consoling Alex"]
+    },
+    
+  {
+    "speaker": "Alex",
+    "text": "*Alex takes a deep breath, wiping his eyes.* Can we... Can we pray, Mary? *His voice is hoarse from crying.*",
+    "response_to": "Mary",
+    "emotion_tags": ["broken", "hopeful"],
+    "memory_tags": ["Victoria", "faith"]
+  },
+  {
+    "speaker": "Mary",
+    "text": "*Mary nods, squeezing his hand in support.* Of course, Alex.",
+    "response_to": "Alex",
+    "emotion_tags": ["compassionate", "strong"],
+    "memory_tags": ["Alex", "prayer"]
+  },
+  {
+    "speaker": "Alex",
+    "text": "*Alex bows his head, his voice shaky.* Dear God... we come to You in our time of grief... We trust in Your plans, but right now... it's so hard... *He chokes on his words.*",
+    "response_to": "Mary",
+    "emotion_tags": ["broken", "faithful"],
+    "memory_tags": ["prayer", "Victoria"]
+  },
+  {
+    "speaker": "Mary",
+    "text": "*Mary joins in, her voice steady.* Lord, we know Your ways are higher than ours... Please give us strength in this time... comfort Alex's heart... *Her voice quivers at the end.*",
+    "response_to": "Alex",
+    "emotion_tags": ["compassionate", "faithful"],
+    "memory_tags": ["prayer", "comfort"]
+  },
+  {
+    "speaker": "Alex",
+    "text": "*Alex continues, gaining strength from Mary's words.* And Victoria... God, please... She served You... She loved You... *His voice breaks again.*",
+    "response_to": "Mary",
+    "emotion_tags": ["grieving", "faithful"],
+    "memory_tags": ["Victoria", "prayer"]
+  },
+  {
+    "speaker": "Mary",
+    "text": "*Mary adds, tears streaming down her face.* We trust her soul is with You... Guide us in honoring her memory, Lord... *Her voice fades into a whisper.*",
+    "response_to": "Alex",
+    "emotion_tags": ["sorrowful", "faithful"],
+    "memory_tags": ["Victoria", "prayer"]
+  }
+]
+  

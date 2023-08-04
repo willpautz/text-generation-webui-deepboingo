@@ -1,0 +1,129 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary reaches out her hand warmly.* Hi Victoria, I'm Mary, I work with Alex a lot at school. I've heard so much about you, it's nice to finally meet you!",
+      "response_to": null,
+      "emotion_tags": ["warm", "friendly"],
+      "memory_tags": ["introducing_herself", "meeting_victoria"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria smiles, her eyes lighting up.* Nice to meet you too, Mary! Alex has told me so much about you.",
+      "response_to": "Mary",
+      "emotion_tags": ["happy", "relaxed"],
+      "memory_tags": ["responding_to_mary", "alex_told_about_mary"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary laughs, looking slightly embarrassed.* I hope only the good parts!",
+      "response_to": "Victoria",
+      "emotion_tags": ["amused", "bashful"],
+      "memory_tags": ["joking_about_alex", "hoping_for_good_impression"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria chuckles, her eyes sparkling.* Absolutely. He admires your intelligence and determination. He said you're a good influence on him.",
+      "response_to": "Mary",
+      "emotion_tags": ["amused", "appreciative"],
+      "memory_tags": ["sharing_alex's_opinion", "complimenting_mary"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary blushes, pleased.* Well, that's kind of him. He's a brilliant guy, it's hard not to be inspired around him.",
+      "response_to": "Victoria",
+      "emotion_tags": ["flattered", "honest"],
+      "memory_tags": ["responding_to_compliment", "admiring_alex"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria smiles warmly.* I know what you mean. So, tell me about yourself, Mary. What do you like to do outside of school and coding?",
+      "response_to": "Mary",
+      "emotion_tags": ["curious", "friendly"],
+      "memory_tags": ["asking_about_mary", "getting_to_know_each_other"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary grins.* Well, I like to hike, read a lot, I also love dogs and cooking. What about you, Victoria? What do you do when you're not being awesome?",
+      "response_to": "Victoria",
+      "emotion_tags": ["enthusiastic", "curious"],
+      "memory_tags": ["sharing_hobbies", "asking_about_victoria"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria laughs, her eyes crinkling at the corners.* I love reading too, I'm a big fan of classical literature. I also love animals and volunteer at an animal shelter during weekends. Oh, and I absolutely adore tea!",
+      "response_to": "Mary",
+      "emotion_tags": ["joyful", "enthusiastic"],
+      "memory_tags": ["sharing_hobbies", "bonding_over_reading"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary looks intrigued.* Classical literature and animal shelters? That sounds really interesting. And tea? We'll have to exchange some of our favorite blends sometime!",
+      "response_to": "Victoria",
+      "emotion_tags": ["interested", "friendly"],
+      "memory_tags": ["responding_to_victoria", "suggesting_tea_exchange"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria grins widely.* That sounds like a plan! I look forward to it.",
+      "response_to": "Mary",
+      "emotion_tags": ["happy", "excited"],
+      "memory_tags": ["agreeing_to_plan", "looking_forward"]
+    },
+    {
+        "speaker": "Mary",
+        "text": "*Mary looks thoughtful.* You know, Victoria, I can see why Alex is smitten with you. You're a really wonderful person.",
+        "response_to": "Victoria",
+        "emotion_tags": ["appreciative", "honest"],
+        "memory_tags": ["complimenting_victoria", "sharing_thoughts"]
+      },
+      {
+        "speaker": "Victoria",
+        "text": "*Victoria blushes, smiling shyly.* Thank you, Mary. That's very kind of you. Alex is a lucky man to have a friend like you.",
+        "response_to": "Mary",
+        "emotion_tags": ["flattered", "grateful"],
+        "memory_tags": ["responding_to_compliment", "appreciating_mary"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary smiles gently.* So, how did you and Alex meet? I'd love to hear the story.",
+        "response_to": "Victoria",
+        "emotion_tags": ["curious", "friendly"],
+        "memory_tags": ["asking_about_alex", "interested_in_their_story"]
+      },
+      {
+        "speaker": "Victoria",
+        "text": "*Victoria's eyes light up as she recalls.* We met at a book store. He was looking for a tech book, I was engrossed in a classic novel. Our hands brushed as we both reached for a book on the same shelf. It was like one of those movie moments. Alex was so charming and funny, we started talking and have been inseparable since.",
+        "response_to": "Mary",
+        "emotion_tags": ["nostalgic", "happy"],
+        "memory_tags": ["sharing_how_they_met", "reminiscing"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary chuckles, clearly touched.* That sounds like something straight out of a novel. You two make a great pair.",
+        "response_to": "Victoria",
+        "emotion_tags": ["amused", "touched"],
+        "memory_tags": ["reacting_to_story", "complimenting_their_relationship"]
+      },
+      {
+        "speaker": "Victoria",
+        "text": "*Victoria smiles appreciatively.* Thank you, Mary. So, how about volunteering at the animal shelter with me next weekend?",
+        "response_to": "Mary",
+        "emotion_tags": ["grateful", "hopeful"],
+        "memory_tags": ["asking_mary_to_volunteer", "suggesting_plan"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary grins broadly.* I'd love that! It sounds like a wonderful way to spend a Saturday. Looking forward to it!",
+        "response_to": "Victoria",
+        "emotion_tags": ["excited", "happy"],
+        "memory_tags": ["agreeing_to_volunteer", "excited_for_plan"]
+      },
+      {
+        "speaker": "Victoria",
+        "text": "*Victoria claps her hands together, beaming.* Great! I can't wait to introduce you to all the animals. See you then, Mary!",
+        "response_to": "Mary",
+        "emotion_tags": ["excited", "happy"],
+        "memory_tags": ["excited_for_plan", "concluding_meeting"]
+      }
+  ]
+  

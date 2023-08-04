@@ -1,0 +1,38 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary enters, waving a letter.* Alex, guess what! I got the internship! I'll be working right out of college!",
+      "response_to": "Alex",
+      "emotion_tags": ["excited", "happy"],
+      "memory_tags": ["Mary", "career", "future"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex grins.* That's fantastic, Mary! I knew you'd get it.",
+      "response_to": "Mary",
+      "emotion_tags": ["happy", "proud"],
+      "memory_tags": ["Alex", "Mary", "career"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary sighs.* It does make me think though... About us, and our future. It's probably a good thing we didn't rush into anything.",
+      "response_to": "Alex",
+      "emotion_tags": ["thoughtful", "serious"],
+      "memory_tags": ["Mary", "future", "relationship"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex nods, looking slightly hurt.* I think you're right, Mary. I mean... it hurts a little, but I know that if God wants us to be together, everything will work itself out. After Victoria... I've learned to trust Him to work all things out for good.",
+      "response_to": "Mary",
+      "emotion_tags": ["hurt", "resigned"],
+      "memory_tags": ["Alex", "future", "trust"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary reaches out, touching his arm.* I'm sorry, Alex... and I believe you're right. He's got us.",
+      "response_to": "Alex",
+      "emotion_tags": ["comforting", "apologetic"],
+      "memory_tags": ["Mary", "Alex", "trust"]
+    }
+  ]
+  

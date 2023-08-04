@@ -1,0 +1,45 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary sighs deeply over the phone.* Hey Anna, you got a minute? I need to talk...",
+      "response_to": "Anna",
+      "emotion_tags": ["upset", "seeking_comfort"],
+      "memory_tags": ["calling_anna", "feeling_down"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*Anna responds warmly.* Of course, Mary. What's up?",
+      "response_to": "Mary",
+      "emotion_tags": ["concerned", "supportive"],
+      "memory_tags": ["responding_to_mary", "being_supportive"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary starts to choke up.* I met Victoria today, Alex's girlfriend. And she's... she's so wonderful, Anna. And they're so in love. I...I can't help but feel... you know...",
+      "response_to": "Anna",
+      "emotion_tags": ["teary", "frustrated"],
+      "memory_tags": ["sharing_feelings", "upset_about_alex_and_victoria"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*Anna's voice softens.* Oh, Mary. I understand, it's really hard seeing someone you care about being happy with someone else. But it's also a sign of your strength and kindness that you're able to wish them well.",
+      "response_to": "Mary",
+      "emotion_tags": ["sympathetic", "kind"],
+      "memory_tags": ["comforting_mary", "providing_perspective"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary sniffles.* Yeah... I guess. But it still hurts, Anna. It really does.",
+      "response_to": "Anna",
+      "emotion_tags": ["hurt", "sad"],
+      "memory_tags": ["admitting_hurt", "sharing_emotions"]
+    },
+    {
+      "speaker": "Anna",
+      "text": "*Anna speaks softly.* I know it does, sweetie. And it's okay to feel that way. But remember, you're an amazing woman. You'll find someone who's just as amazing, when the time is right.",
+      "response_to": "Mary",
+      "emotion_tags": ["compassionate", "encouraging"],
+      "memory_tags": ["comforting_mary", "offering_encouragement"]
+    }
+  ]
+  

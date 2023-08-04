@@ -1,0 +1,101 @@
+[
+    {
+      "speaker": "Alex",
+      "text": "*Footsteps approaching, then stopping. Alex kneels on the grass, a note of concern in his voice.* Hey, Mary... everything alright?",
+      "response_to": null,
+      "emotion_tags": ["concern"],
+      "memory_tags": ["breakup", "compassion"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary sniffs, quickly wipes her eyes, but her voice wavers.* Alex... didn't expect to see anyone here...",
+      "response_to": "Alex",
+      "emotion_tags": ["sadness", "surprise"],
+      "memory_tags": ["breakup", "vulnerability"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Gently, Alex settles on the grass next to Mary, his voice soft.* You don't have to talk about it if you don't want to, Mary. But I'm here if you do.",
+      "response_to": "Mary",
+      "emotion_tags": ["compassion", "kindness"],
+      "memory_tags": ["support", "friendship"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary exhales a shaky breath, then after a pause, starts to share.* Sam and I... we broke up, Alex. And it hurts. So much.",
+      "response_to": "Alex",
+      "emotion_tags": ["sadness", "pain"],
+      "memory_tags": ["breakup", "openness"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex's hand lightly rubs Mary's back in comfort.* I'm really sorry, Mary. Breakups are tough. But you're not alone, okay?",
+      "response_to": "Mary",
+      "emotion_tags": ["sympathy", "reassurance"],
+      "memory_tags": ["breakup", "support"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Tears well up in Mary's eyes as she nods.* It's just... I really loved him, Alex. I gave him my all, and it feels like... like it wasn't enough.",
+      "response_to": "Alex",
+      "emotion_tags": ["sadness", "disappointment"],
+      "memory_tags": ["love", "heartbreak"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex's voice is gentle, his eyes sympathetic.* Mary, sometimes, no matter how much we give, it's not about us. It's about the other person and what they're capable of receiving and giving back.",
+      "response_to": "Mary",
+      "emotion_tags": ["sympathy", "understanding"],
+      "memory_tags": ["advice", "support"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary sniffles again, smiling weakly at Alex.* I guess I just... I thought he loved me... but it feels like it was all a lie.",
+      "response_to": "Alex",
+      "emotion_tags": ["sadness", "gratitude"],
+      "memory_tags": ["heartbreak", "betrayal"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex nods, understanding.* It's okay to feel that way, Mary. And it's okay to grieve. You're allowed to be hurt. But remember, this doesn't define you. You're stronger than this, and you'll get through it.",
+      "response_to": "Mary",
+      "emotion_tags": ["compassion", "encouragement"],
+      "memory_tags": ["strength", "support"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary nods slowly, taking in his words.* It's just... it's so hard, Alex. I feel so broken.",
+      "response_to": "Alex",
+      "emotion_tags": ["despair", "hurt"],
+      "memory_tags": ["breakup", "pain"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex's gaze is steadfast.* It's okay to feel broken, Mary. It's a part of the healing process. But remember, you're not alone in this. We're all here for you, including me.",
+      "response_to": "Mary",
+      "emotion_tags": ["reassurance", "compassion"],
+      "memory_tags": ["support", "friendship"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*A deep breath, a sigh. Mary wipes her eyes again, attempting a smile.* I really needed to hear that, Alex. Thank you.",
+      "response_to": "Alex",
+      "emotion_tags": ["gratitude", "sadness"],
+      "memory_tags": ["support", "friendship"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex offers a comforting smile, his hand giving Mary's back one last rub before pulling away.* Anytime, Mary. I'm here for you. We're friends, and friends stick together, right?",
+      "response_to": "Mary",
+      "emotion_tags": ["compassion", "friendship"],
+      "memory_tags": ["support", "closeness"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary finally manages a genuine, if small, smile. She wipes her last tear and looks at Alex.* Right, Alex. Friends stick together.",
+      "response_to": "Alex",
+      "emotion_tags": ["hope", "gratitude"],
+      "memory_tags": ["support", "friendship"]
+    }
+  ]
+  

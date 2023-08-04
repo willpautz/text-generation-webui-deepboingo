@@ -1,0 +1,66 @@
+[
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria takes a deep breath.* Alex, I have something to tell you. I've decided to go on a mission trip to Afghanistan this summer. We're going to help bring water to a village and build a church.",
+      "response_to": "",
+      "emotion_tags": ["nervous", "determined"],
+      "memory_tags": ["mission trip", "Afghanistan"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex looks surprised.* Afghanistan? That's... that's a big step, Victoria.",
+      "response_to": "Victoria",
+      "emotion_tags": ["surprised", "worried"],
+      "memory_tags": ["Afghanistan", "concern"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria nods.* I know, Alex. But I feel God calling me to do this. It's an opportunity to serve in a way that I feel drawn to.",
+      "response_to": "Alex",
+      "emotion_tags": ["calm", "determined"],
+      "memory_tags": ["faith", "call to serve"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex swallows hard, trying to hide his concern.* I'm proud of you, Victoria. But... aren't you scared?",
+      "response_to": "Victoria",
+      "emotion_tags": ["concerned", "anxious"],
+      "memory_tags": ["fear", "worries"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria smiles softly.* Of course, I am, Alex. But I trust in God's protection and His plan.",
+      "response_to": "Alex",
+      "emotion_tags": ["comforting", "faithful"],
+      "memory_tags": ["trust in God", "faith"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex grips his coffee mug tighter, struggling with his feelings.* I trust God too, Victoria. But this is... big.",
+      "response_to": "Victoria",
+      "emotion_tags": ["struggling", "worried"],
+      "memory_tags": ["struggle", "worries"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria reaches over to hold his hand.* Alex, I know you're worried. And I appreciate your concern. But remember, nothing happens outside of God's control. There is no where I could go that I could be separated from God, and from my deep love for you.",
+      "response_to": "Alex",
+      "emotion_tags": ["encouraging", "loving"],
+      "memory_tags": ["God's control", "love"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex looks into Victoria's eyes, his own filled with worry and love.* Promise me you'll be safe, Victoria.",
+      "response_to": "Victoria",
+      "emotion_tags": ["worried", "loving"],
+      "memory_tags": ["promise", "safety"]
+    },
+    {
+      "speaker": "Victoria",
+      "text": "*Victoria smiles, giving his hand a squeeze.* I promise, Alex. I'll do everything I can to stay safe.",
+      "response_to": "Alex",
+      "emotion_tags": ["reassuring", "loving"],
+      "memory_tags": ["promise", "safety"]
+    }
+  ]
+  

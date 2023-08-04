@@ -1,0 +1,31 @@
+[
+    {
+      "speaker": "Alex",
+      "text": "*Alex can't contain his grin.* You won't believe this, Mary. I got a job offer from SoftCorp. They want me as an AI engineer!",
+      "response_to": "Mary",
+      "emotion_tags": ["excited", "happy"],
+      "memory_tags": ["Alex", "career", "future"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary raises her eyebrows.* Wow, Alex! That's a fantastic opportunity! I'd be lying if I said I wasn't a little envious.",
+      "response_to": "Alex",
+      "emotion_tags": ["happy", "envious"],
+      "memory_tags": ["Mary", "career", "future"]
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Alex chuckles.* Don't worry, I'll be sure to put in a good word for you once I've established a solid reputation there. I can't think of anyone else I'd rather work with.",
+      "response_to": "Mary",
+      "emotion_tags": ["reassuring", "hopeful"],
+      "memory_tags": ["Alex", "career", "friendship"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary smiles.* I appreciate that, Alex. Let's see where God leads us, right?",
+      "response_to": "Alex",
+      "emotion_tags": ["grateful", "hopeful"],
+      "memory_tags": ["Mary", "future", "trust"]
+    }
+  ]
+  

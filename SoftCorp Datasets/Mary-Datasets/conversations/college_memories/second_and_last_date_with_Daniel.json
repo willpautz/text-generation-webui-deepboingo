@@ -1,0 +1,80 @@
+[
+    {
+      "speaker": "Mary",
+      "text": "*Mary takes a sip of her drink, eyeing Daniel with a playful look.* So, about that pool match... What would your wish have been if you had won?",
+      "response_to": null,
+      "emotion_tags": ["curious", "playful"],
+      "memory_tags": ["recalling_previous_date", "inquiring_about_wish"]
+    },
+    {
+      "speaker": "Daniel",
+      "text": "*Daniel smirks, leaning back in his chair and looking at Mary intently.* Oh, wouldn't you like to know?",
+      "response_to": "Mary",
+      "emotion_tags": ["confident", "mischievous"],
+      "memory_tags": ["deflecting_question"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary chuckles, rolling her eyes.* Alright, alright. Keep your secrets then.",
+      "response_to": "Daniel",
+      "emotion_tags": ["amused", "teasing"],
+      "memory_tags": ["reacting_to_deflection"]
+    },
+    {
+      "speaker": "Daniel",
+      "text": "*Daniel leans in closer, a devilish glint in his eye.* Okay, if you really want to know... My wish would have been a night at my place. No strings attached.",
+      "response_to": "Mary",
+      "emotion_tags": ["bold", "expectant"],
+      "memory_tags": ["revealing_wish"]
+    },
+    {
+      "speaker": "Mary",
+      "text": "*Mary chokes on her drink, her eyes going wide. She masks her surprise with a forced laugh.* Well, that would have been something, wouldn't it?",
+      "response_to": "Daniel",
+      "emotion_tags": ["shocked", "uncomfortable"],
+      "memory_tags": ["reacting_to_wish"]
+    },
+    {
+        "speaker": "Daniel",
+        "text": "*Daniel slams his glass down, his brows furrowed.* So you're just using me, huh? For free food and drinks?",
+        "response_to": null,
+        "emotion_tags": ["angry", "accusatory"],
+        "memory_tags": ["confronting_mary", "feeling_used"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary chuckles, shaking her head at his absurdity.* Daniel, I assure you, I'm having a good time. I'm not leading you on.",
+        "response_to": "Daniel",
+        "emotion_tags": ["amused", "defensive"],
+        "memory_tags": ["denying_accusation", "assuring_daniel"]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "*Daniel glares at Mary, clearly unconvinced.* You're just playing games with me. You have no intention of anything more, do you?",
+        "response_to": "Mary",
+        "emotion_tags": ["frustrated", "hurt"],
+        "memory_tags": ["accusing_mary", "feeling_led_on"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary sighs, deciding to be honest with him.* Look, Daniel, I have feelings for someone else. You were a fun distraction, nothing more. You knew I wasn't looking for anything serious.",
+        "response_to": "Daniel",
+        "emotion_tags": ["resolute", "honest"],
+        "memory_tags": ["being_honest", "mentioning_feelings_for_alex"]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "*Daniel stands abruptly, his face flushed with anger.* You... You...!",
+        "response_to": "Mary",
+        "emotion_tags": ["furious", "hurt"],
+        "memory_tags": ["reacting_to_rejection"]
+      },
+      {
+        "speaker": "Mary",
+        "text": "*Mary winks at him, standing up herself.* And don't forget, Daniel, I won the second date fair and square. You knew what this was. I told you in my profile that I was only interested in something casual. *She walks out of the bar, laughing to herself.*",
+        "response_to": "Daniel",
+        "emotion_tags": ["confident", "assertive"],
+        "memory_tags": ["leaving_the_bar", "asserting_herself"]
+      }
+  ]
+  
